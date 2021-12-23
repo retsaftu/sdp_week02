@@ -1,0 +1,1 @@
+In this project, I wanted to show a Observer Pattern. For example, post office and users tied to this mail.
